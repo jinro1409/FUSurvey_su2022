@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ES4Oyahvvi5trTITPhZhIIOqiVZm1ebcsjiaNwqdRjB7gEtZpNpkhqru5MRLLdRUyD7fBd8J8GZIKEwhYE0zA==",
+  "success": true,
+  "projectFilePath": "D:\\Work_Space\\FUSurvey\\FUSurvey\\FUSurvey.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cuong\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\Cuong\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
